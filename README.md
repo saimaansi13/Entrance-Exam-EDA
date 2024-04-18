@@ -38,3 +38,6 @@ A concise overview of the regression model:
 
 ![Midwest performed better overall in both Maths   Verbal (2)](https://github.com/chirag-xcvii/Entrance-Exam-EDA/assets/146003422/698b62fb-1f72-4080-8b68-87f6b5c99d4e)
 
+## Collaborators
+J. Sai Maansi
+Chirag Chaudhary
